@@ -1,2 +1,2 @@
 # hackpad
-a diy macropad
+a diy macropad :D
